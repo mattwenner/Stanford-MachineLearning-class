@@ -1,1 +1,1 @@
-# Stanford-MachineLearning-class
+# Stanford's Machine Learning Class from Coursera
